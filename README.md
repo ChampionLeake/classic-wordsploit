@@ -8,7 +8,7 @@ As included in the repo, you'll be able to get your DSi's CID for things such as
 ###
 ## Usage (Patching the savefile)
 * Win32: `classicfix savegame.sav`
-* Linux: `./classicfix savegame.sav`
+* Linux: `./classicfix savegame.sav` (You'll need to compile the `classicfix.c` before using it. You can also use WINE as well)
 ###
 ## Triggering the exploit
 Click "Select a Profile" on the main menu and BOOM!
