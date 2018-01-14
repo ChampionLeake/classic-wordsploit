@@ -26,5 +26,5 @@ Click "Select a Profile" on the main menu and BOOM!
 ###
 ## Requirements:
 * A copy of the "Classic Word Games" DSi-Enhanced game. (Cartridge specifically)
-* Any DS that's in the DS family. (The DS family and the 3DS family will not be able to print a valid DSi CID because it's specifically for the DSi.)
+* Any DS that's in the DS family. (The DS family and the 3DS family will not be able to print a valid DSi CID because the CID payload is specifically for the DSi.)
 * A way to inject the save. (Use TWLSaveTool on the 3DS, you'll need CFW on your 3DS. GodMode9 is an option as well)
