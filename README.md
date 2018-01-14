@@ -21,3 +21,9 @@ Click "Select a Profile" on the main menu and BOOM!
 ###
 ## Support:
 * Supports both US or EUR versions of the game.
+* Works with emulators. (Even no$gba)
+
+###
+## Requirements:
+* Any DS that's in the DS family. (NDS PHAT/NDS Lite/3DS will not be able to print a valid DSi CID because it's not a DSi.)
+* A way to inject the save. (Use TWLSaveTool on the 3DS, you'll need CFW on your 3DS)
