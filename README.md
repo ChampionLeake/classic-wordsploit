@@ -20,10 +20,11 @@ Click "Select a Profile" on the main menu and BOOM!
 * CTurt (Giving helpful advise on payloads for TWL-carts)
 ###
 ## Support:
-* Supports both US or EUR versions of the game.
-* Works with emulators. (Even no$gba)
+* Supports both US & EUR versions of the game.
+* Works with emulators. (desmume, no$gba, etc.)
 
 ###
 ## Requirements:
-* Any DS that's in the DS family. (NDS PHAT/NDS Lite/3DS will not be able to print a valid DSi CID because it's not a DSi.)
-* A way to inject the save. (Use TWLSaveTool on the 3DS, you'll need CFW on your 3DS)
+* A copy of the "Classic Word Games" DSi-Enhanced game. (Cartridge specifically)
+* Any DS that's in the DS family. (The DS family and the 3DS family will not be able to print a valid DSi CID because it's specifically for the DSi.)
+* A way to inject the save. (Use TWLSaveTool on the 3DS, you'll need CFW on your 3DS. GodMode9 is an option as well)
